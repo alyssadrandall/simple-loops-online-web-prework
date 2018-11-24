@@ -5,7 +5,6 @@ def loop_iterator(number_of_times)
     if number_of_times >= 10
     break
   end
-end
 
   # The integer is the number of times the loops should puts out the phrase
   # How can we make sure the loop breaks once it has puts out the phrase the 
